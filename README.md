@@ -82,11 +82,10 @@ Please make sure to update tests as appropriate.
 
 
 ```diff
--Red
-+Green
+-Apple
++Grass
 !Orange
-#Grey
-
+#Smoke
 ```
 
 
