@@ -39,7 +39,7 @@ numpy.pluralized('goose') # returns 'geese'
 numpy.singularize('phenomena') #returns 'phenomenon'
 ```
 
-[google](https://pngimg.com/uploads/google/google_PNG19635.png)
+![google](https://pngimg.com/uploads/google/google_PNG19635.png)
 ![alt text](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
 ![alt_sloth](https://static01.nyt.com/images/2014/01/28/science/28SLOT_SPAN/28SLOT-jumbo.jpg)
 ![alt_ironman](https://cnet3.cbsistatic.com/img/Jz-08lFTyBlsDGYqW_c2dGCVtcM=/1092x0/2020/01/17/7da55a03-ac5b-4ec1-b59b-6b3c2414e68b/egdt5idw4aittju.jpg )
