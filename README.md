@@ -14,11 +14,12 @@ README.md
 Numpy is A Python Library for dealing with numerical useful python package.
 
 Use the package manager 
-[Python](https://www.python.org/)
-[numpy](https://pip.pypa.io/en/stable/) to install numpy package.[Google](google.com)
-Press Facebook
+
 [Facebook](www.facebook.com)
-[]()
+
+[GOOGLE](www.google.com)
+
+[Instagram](www.instagram.com)
 
 ```bash
 pip install numpy
