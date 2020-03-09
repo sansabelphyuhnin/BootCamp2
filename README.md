@@ -39,7 +39,7 @@ numpy.pluralized('goose') # returns 'geese'
 numpy.singularize('phenomena') #returns 'phenomenon'
 ```
 
-[google](https://www.google.com/search?q=google+logo+jpg&rlz=1C1CHBF_enMM843MM843&sxsrf=ALeKk01564CI_qicRrs7NHsUqBbkxN5mkQ:1583730807025&tbm=isch&source=iu&ictx=1&fir=2hXwsLjY5xN0bM%253A%252CCpJMtaHxMmHUtM%252C_&vet=1&usg=AI4_-kQoV9Y4293V2rebvzadcbAvvfR4aA&sa=X&ved=2ahUKEwi_lLCB0YzoAhVN8HMBHWgyCpoQ9QEwAXoECAoQJw#imgrc=2hXwsLjY5xN0bM.png)
+[google](https://www.google.com/search?q=google+logo+jpg&rlz=1C1CHBF_enMM843MM843&sxsrf=ALeKk01564CI_qicRrs7NHsUqBbkxN5mkQ:1583730807025&tbm=isch&source=iu&ictx=1&fir=2hXwsLjY5xN0bM%253A%252CCpJMtaHxMmHUtM%252C_&vet=1&usg=AI4_-kQoV9Y4293V2rebvzadcbAvvfR4aA&sa=X&ved=2ahUKEwi_lLCB0YzoAhVN8HMBHWgyCpoQ9QEwAXoECAoQJw#imgrc=2hXwsLjY5xN0bM)
 ![alt text](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
 ![alt_sloth](https://static01.nyt.com/images/2014/01/28/science/28SLOT_SPAN/28SLOT-jumbo.jpg)
 ![alt_ironman](https://cnet3.cbsistatic.com/img/Jz-08lFTyBlsDGYqW_c2dGCVtcM=/1092x0/2020/01/17/7da55a03-ac5b-4ec1-b59b-6b3c2414e68b/egdt5idw4aittju.jpg )
