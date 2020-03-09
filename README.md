@@ -92,6 +92,4 @@ Please make sure to update tests as appropriate.
 
 
 
-[Min Khant Aung](https://www.facebook.com/minkhantaung.info)
-
 [MIT](https://choosealicense.com/licenses/mit/)
