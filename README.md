@@ -14,7 +14,7 @@ Press Facebook
 =======
 Use the package manager 
 
->>>>>>> e9dadb6ae4a8d70d86b8cb2cbe4076f74e62eb2d
+>>>>>>>
 [Facebook](www.facebook.com)
 
 [GOOGLE](www.google.com)

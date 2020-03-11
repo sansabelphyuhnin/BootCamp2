@@ -53,9 +53,9 @@ s = 'First Line.\nSecond Line.'
 
 print("""\
 Usage: thingy
-			-a
-			-b
-			-c
+	-a
+	-b
+	-c
 """)
 
 
@@ -137,3 +137,8 @@ total_tax
 variable
 
 
+print("""\
+Usage: thingy
+     -h                       
+     -H hostname              
+""")

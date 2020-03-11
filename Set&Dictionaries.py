@@ -1,5 +1,7 @@
 Set&Dictionaries.py
 
+Set - {}
+
 includes a data type for sets
 Curly braces or the set() function can be used to create sets.
 
@@ -42,3 +44,7 @@ fruits.remove("banana")
 fruits
 fruits.discard("kiwi")
 fruits
+
+
+
+
