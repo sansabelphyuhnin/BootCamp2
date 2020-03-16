@@ -1,4 +1,4 @@
-fib.py
+
 import fibonacci
 
 f = fibonacci.fib2
